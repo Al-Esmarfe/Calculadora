@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe.config
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.exe
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\bin\Debug\Pcalculadora.pdb
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.Form1.resources
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.exe
+C:\Users\mateu\OneDrive\Documentos\Visual Studio 2019\Pcalculadora\Pcalculadora\obj\Debug\Pcalculadora.pdb
